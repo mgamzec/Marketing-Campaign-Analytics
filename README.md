@@ -15,6 +15,7 @@ To calculate the total number of people who converted, we slice the DataFrame to
 
 ## Retention rate
 Retention rate is the percentage of people that remain subscribed after a certain period of time. In this course, we will focus on 1-month retention.
+
 ![image](https://github.com/mgamzec/Marketing-Champaign-Analytics/assets/62151645/2e5668f3-1c97-4a39-85af-77508bc0bd09)
 
 
