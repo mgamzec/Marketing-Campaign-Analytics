@@ -6,6 +6,9 @@ As a data professional, you will often find yourself translating business questi
 ## Conversion rate
 Conversion rate is the percentage of people that we market to who ultimately convert to our product. In this course, we will be focusing on a subscription service and will be talking about conversion in terms of subscriptions.
 
+![image](https://github.com/mgamzec/Marketing-Champaign-Analytics/assets/62151645/bc6b430e-eeac-4df2-bee8-cefe2f8c6fd9)
+
+
 ## Calculating conversion rate using pandas
 To calculate the total number of people who converted, we slice the DataFrame to include only the rows where "converted" equals True and then count the unique user_ids using nunique(). Next, we calculate the total number of people we marketed to. We can do this by counting all the unique user IDs in our dataset. Now that we have the total number of users and users who subscribed, we can calculate conversion rate by dividing subscribers by total.
 
