@@ -24,7 +24,7 @@ To determine retention rate, we first calculate the total number of users who re
 
 # Summary
 1. Dataset
-We analyzed a marketing campaign from start to finish. You began with importing the dataset and used the head(), info(), and describe() methods to assess the contents and quality of the dataset.
+We analyzed a marketing campaign from start to finish. Importing the dataset and used the head(), info(), and describe() methods to assess the contents and quality of the dataset.
 
 2. Preprocessing
 Next, practiced feature engineering by creating a new columns and corrected an errors in the data.
@@ -33,10 +33,10 @@ Next, practiced feature engineering by creating a new columns and corrected an e
 Then looked at high-level metrics like conversion and retention rates.
 
 4. Customer segmentation
-After had a handle on the marketing metrics, you practiced user segmentation. For example, looking at how different marketing channels reach different age groups.
+After had a handle on the marketing metrics, practiced user segmentation. For example, looking at how different marketing channels reach different age groups.
 
 5. Dip in conversion rate?
 Next, you dealt with one of the most common challenges in marketing. Something went wrong in the campaign, and it was your job to identify the problem and assess the impact of the mistake. You successfully found the cause, which was a language mismatch.
 
 6. Analyzed an A/B test
-Finally, analyzed an A/B test. You learned how to determine statistical significance and the importance of segmentation in A/B tests to understand the true impact of the change. You found that while the test was a success overall, personalization was not appreciated in certain regions and by certain age groups.
+Finally, analyzed an A/B test. How to determine statistical significance and the importance of segmentation in A/B tests to understand the true impact of the change. You found that while the test was a success overall, personalization was not appreciated in certain regions and by certain age groups.
