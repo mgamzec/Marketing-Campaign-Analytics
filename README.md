@@ -1,3 +1,4 @@
+![image](https://github.com/mgamzec/Marketing-Champaign-Analytics/assets/62151645/ea76a014-e13b-40ec-a4f0-de67ce5349f1)
 # Marketing-Champaign-Analytics
 
 ## Was the campaign successful?
@@ -14,6 +15,8 @@ To calculate the total number of people who converted, we slice the DataFrame to
 
 ## Retention rate
 Retention rate is the percentage of people that remain subscribed after a certain period of time. In this course, we will focus on 1-month retention.
+![image](https://github.com/mgamzec/Marketing-Champaign-Analytics/assets/62151645/2e5668f3-1c97-4a39-85af-77508bc0bd09)
+
 
 ## Calculating retention rate
 To determine retention rate, we first calculate the total number of users who remain subscribers after one month. This information is available in the column "is_retained". We now slice the DataFrame to include only rows where the user was retained, that is, where is_retained equals True and count the unique user_ids. We can reuse our "subscribers" calculation from the conversion rate calculation, as the number of total users who originally subscribed remains the same. Finally, we divide the number of users who were retained by the number of users who subscribed to calculate the retention rate.
